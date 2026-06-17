@@ -13,7 +13,10 @@ I'm transitioning into cybersecurity after 10+ years across operations-heavy rol
 
 I learn by doing. My home lab is where theory turns into muscle memory — running real attacks, then switching hats to detect and trace them myself.
 
-- 🎓 **CompTIA Security+** — Certified 
+- 🎓 **CompTIA Security+** — Certified
+
+  [![CompTIA Security+](https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/linkedin_thumb_blob)](https://www.credly.com/badges/2755cc52-abf9-413f-874c-bef9ff8df79c)
+
 - 🎓 **Correlation One Cybersecurity Program** — Graduating with honors (July 2026)
 - 🏠 Actively building and breaking things in a personal home lab
 - 🇺🇸 🇲🇽 Bilingual — English & Spanish
@@ -82,4 +85,4 @@ I'm actively seeking entry-level **SOC Analyst** and **Cybersecurity Analyst** o
 
 ---
 
-*"Attacked it. Then caught it. That's the loop I'm here to learn."*--
+*"Attacked it. Then caught it. That's the loop I'm here to learn."*
