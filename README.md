@@ -1,6 +1,6 @@
 # Hi, I'm Angel Ruiz 👋
 
-Cybersecurity professional in training, building toward a SOC Analyst role through hands-on labs, real-world tools, and a CompTIA Security+ certification.
+Cybersecurity professional , building toward a SOC Analyst role through hands-on labs, real-world tools, and a CompTIA Security+ certification.
 
 📍 Northridge, CA · 🔐 SOC Analyst (Tier 1) | Cybersecurity Analyst
 🌐 [LinkedIn](https://www.linkedin.com/in/aruizcanel/) · ✉️ aruizcanel@yahoo.com
@@ -17,7 +17,7 @@ I learn by doing. My home lab is where theory turns into muscle memory — runni
 
   [![CompTIA Security+](https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/linkedin_thumb_blob)](https://www.credly.com/badges/2755cc52-abf9-413f-874c-bef9ff8df79c)
 
-- 🎓 **Correlation One Cybersecurity Program** — Graduating with honors (July 2026)
+- 🎓 **Correlation One Cybersecurity Program** — Graduated with honors
 - 🏠 Actively building and breaking things in a personal home lab
 - 🇺🇸 🇲🇽 Bilingual — English & Spanish
 
