@@ -25,6 +25,7 @@ I learn by doing. My labs are where theory turns into muscle memory — building
 ---
 
 ### Correlation One — Information Security Analyst Program
+![Correlation One Certificate](./correlation_one_certificate.png)
 **🏅 Graduated with Honors — July 6th, 2026**
 
 > Completed 250+ hours of cybersecurity coursework including all labs, assessments, and professional development requirements. Achieved an average of 80%+ across all deliverables — awarded the Honors distinction. Sponsored by Amazon Career Choice.
